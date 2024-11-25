@@ -1,8 +1,8 @@
-# Build and Launch Your Own Blum Telegram Bot with CommunityJuice
+# Build and Launch Your Own Telegram Bot 
 
 ### Telegram Clickers Clone | Telegram Mini App
 
-Are you eager to launch your own Tap-to-Earn Bot/Game based on the Blum Game but want to avoid the high costs and time commitment of development and maintenance? Look no further! CommunityJuice is here to assist with your product implementation so you can concentrate on marketing and sales.
+Are you eager to launch your own Tap-to-Earn Bot/Game based on the Blum Game but want to avoid the high costs and time commitment of development and maintenance? Look no further! XerxesCoder is here to assist with your product implementation so you can concentrate on marketing and sales.
 
 ![Custom Tap-to-Earn Bot GitHub Image](/images/tapswap.jpg "White Label TapSwap | GitHub")
 
@@ -28,7 +28,7 @@ Are you eager to launch your own Tap-to-Earn Bot/Game based on the Blum Game but
 ## Pricing
 Our  Custom Tap-to-Earn Game Clone is offered with three pricing tiers:
 
-[![CommunityJuice Special Offers](/images/5.jpg)](mailto:xerxescode@gmail.com) 
+[![XerxesCoder Special Offers](/images/5.jpg)](mailto:xerxescode@gmail.com) 
 
 Contact us to find out more about our pricing options and to discuss a custom package that meets your specific requirements.
 
@@ -71,4 +71,4 @@ Contact us, and we'll answer all your questions and explain your potential game 
 
 ## Summary
 
-Creating a successful product can be expensive and time-consuming. At CommunityJuice, we specialize in helping you reduce costs without compromising on quality. By leveraging our Custom Tap-to-Earn Bot solution, you can save on development and maintenance expenses. Our ready-to-deploy script significantly shortens the time to market, allowing you to focus on building your community and driving sales. Partner with CommunityJuice to efficiently and affordably launch your Custom Tap-to-Earn Bot, while we take care of the technical details and support. Let us help you maximize your investment and achieve your goals faster.
+Creating a successful product can be expensive and time-consuming. At XerxesCoder, we specialize in helping you reduce costs without compromising on quality. By leveraging our Custom Tap-to-Earn Bot solution, you can save on development and maintenance expenses. Our ready-to-deploy script significantly shortens the time to market, allowing you to focus on building your community and driving sales. Partner with XerxesCoder to efficiently and affordably launch your Custom Tap-to-Earn Bot, while we take care of the technical details and support. Let us help you maximize your investment and achieve your goals faster.
