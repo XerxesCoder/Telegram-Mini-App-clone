@@ -6,6 +6,7 @@ Are you eager to launch your own Tap-to-Earn Bot/Game based on the Blum Game but
 
 ## Demo
 - [Nextjs Simple Farming](https://t.me/nextjstgbot)
+- [Night Sky Simulator](https://t.me/starry_nightsky_bot)
 
 ![Custom Tap-to-Earn Bot GitHub Image](/images/tapswap.jpg "White Label TapSwap | GitHub")
 
@@ -41,6 +42,8 @@ Contact us, and we'll answer all your questions and explain your potential game 
 
 
 - [Our Email](mailto:xerxescode@gmail.com)
+- [Telegram](https://t.me/xerxescoder)
+- [Telegram Channel](https://t.me/xerxescodes)
 
 
 ## Frequently asked questions
